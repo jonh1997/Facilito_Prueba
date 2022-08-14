@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Facilito</string>
+    <string name="textview">Facilito S.A de C.V</string>
+    <string name="text_user">Ingrese su usuario</string>
+    <string name="text_pass">Ingrese su contraseña</string>
+    <string name="bt1">INGRESAR</string>
+    <string name="bt2">registrace</string>
+    <string name="nombreCompleto">Nombre completo</string>
+    <string name="Direc">Ingrese su Dirección</string>
+    <string name="tv_Edad">Edad:</string>
+    <string name="edt_edad">Su edad</string>
+    <string name="phone">Su número de Telefono</string>
+    <string name="correo">Correo Electronico</string>
+    <string name="Reg_password">Digite una Contraseña</string>
+    <string name="bt_Cancelar">Cancelar</string>
+    <string name="bt_registrar">Registrar</string>
+    <string name="tv_info">Registro nuevo cliente</string>
+    <string name="recomendar">Recomendación de clientes</string>
+    <string name="btn_editar_usuario">Cambiar información</string>
+    <string name="btn_recomendaciones">Clientes recomendados</string>
+    <string name="muestra_correo">Correo: </string>
+    <string name="welcome">BIENVENIDO</string>
+</resources>
